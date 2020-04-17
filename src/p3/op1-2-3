@@ -1,0 +1,14 @@
+Enter the payment
+150
+US: $150.00
+India: Rs.150.00
+China: ￥150.00
+France: 150,00 €
+
+Enter the payment
+-90
+Negative Payment entered
+
+Enter the payment
+1000000001
+Payment not in limits

@@ -1,0 +1,86 @@
+Enter Stack Size
+2
+MENU
+1. Push
+2. Pop
+3. Display elements
+4. Exit
+Enter option.
+1
+Enter element to push onto stack
+11
+Completed.
+MENU
+1. Push
+2. Pop
+3. Display elements
+4. Exit
+Enter option.
+1
+Enter element to push onto stack
+12
+Completed.
+MENU
+1. Push
+2. Pop
+3. Display elements
+4. Exit
+Enter option.
+1
+Enter element to push onto stack
+13
+Stack overflow.
+Completed.
+MENU
+1. Push
+2. Pop
+3. Display elements
+4. Exit
+Enter option.
+3
+Status
+12
+11
+______
+MENU
+1. Push
+2. Pop
+3. Display elements
+4. Exit
+Enter option.
+2
+Popped element: 12
+MENU
+1. Push
+2. Pop
+3. Display elements
+4. Exit
+Enter option.
+2
+Popped element: 11
+MENU
+1. Push
+2. Pop
+3. Display elements
+4. Exit
+Enter option.
+2
+Stack underflow.
+MENU
+1. Push
+2. Pop
+3. Display elements
+4. Exit
+Enter option.
+3
+Status
+______
+MENU
+1. Push
+2. Pop
+3. Display elements
+4. Exit
+Enter option.
+4
+Exiting...
+End of Demonstration
