@@ -1,0 +1,29 @@
+Enter number of students
+2
+Enter Name of Student 1
+Dinesh
+Enter USN of Student 1
+1RV18CS053
+Enter Branch of Student 1
+CSE
+Enter Phone Number of Student 1
+8123461381
+Enter Name of Student 2
+Furqan
+Enter USN of Student 2
+1RV18CS054
+Enter Branch of Student 2
+CSE
+Enter Phone Number of Student 2
+9988551112
+Details of students are:
+Student 1
+Name: Dinesh
+USN: 1RV18CS053
+Branch: CSE
+Phone number: 8123461381
+Student 2
+Name: Furqan
+USN: 1RV18CS054
+Branch: CSE
+Phone number: 9988551112

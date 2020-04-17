@@ -1,0 +1,42 @@
+Enter number of students
+3
+Enter Name of Student 1
+Sam
+Enter USN of Student 1
+1RV18IM001
+Enter Branch of Student 1
+IEM
+Enter Phone Number of Student 1
+8855456321
+Enter Name of Student 2
+Ram
+Enter USN of Student 2
+1RV18EC012
+Enter Branch of Student 2
+ECE
+Enter Phone Number of Student 2
+9886161317
+Enter Name of Student 3
+Pooja
+Enter USN of Student 3
+1RV18BT054
+Enter Branch of Student 3
+BT
+Enter Phone Number of Student 3
+9967716007
+Details of students are:
+Student 1
+Name: Sam
+USN: 1RV18IM001
+Branch: IEM
+Phone number: 8855456321
+Student 2
+Name: Ram
+USN: 1RV18EC012
+Branch: ECE
+Phone number: 9886161317
+Student 3
+Name: Pooja
+USN: 1RV18BT054
+Branch: BT
+Phone number: 9967716007
