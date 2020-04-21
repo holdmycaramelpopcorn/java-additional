@@ -1,0 +1,26 @@
+Enter Salaried Employee details:
+Name:
+Soumadeep
+Employee ID:
+6699
+Salary:
+45500
+The salary for the employee is 45500
+Enter Commission Employee details:
+Name:
+Adi
+Employee ID:
+80000
+Sales:
+80000
+The salary for the commission employee is 48000
+Enter Base + Commission Employee details:
+Name:
+Akash
+Employee ID:
+478847
+Base salary:
+10000
+Sales:
+54000
+The salary for the Base plus Commission employee is 42400

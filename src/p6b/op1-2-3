@@ -1,0 +1,21 @@
+1.
+Enter a for operation a/b
+10
+Enter b for operation a/b
+5
+Division of a by b is 2.0
+
+2.
+Enter a for operation a/b
+100
+Enter b for operation a/b
+3
+Division of a by b is 33.333332
+
+3.
+Enter a for operation a/b
+12
+Enter b for operation a/b
+0
+java.lang.ArithmeticException: Cannot divide by zero
+	at p6b.Main.main(Main.java:14)

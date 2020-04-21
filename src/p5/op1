@@ -1,0 +1,26 @@
+Enter Salaried Employee details:
+Name:
+Dinesh
+Employee ID:
+8451
+Salary:
+60000
+The salary for the employee is 60000
+Enter Commission Employee details:
+Name:
+Impana
+Employee ID:
+96240
+Sales:
+200
+The salary for the commission employee is 120
+Enter Base + Commission Employee details:
+Name:
+Furqan
+Employee ID:
+9669
+Base salary:
+20000
+Sales:
+40000
+The salary for the Base plus Commission employee is 44000

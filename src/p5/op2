@@ -1,0 +1,26 @@
+Enter Salaried Employee details:
+Name:
+ABC
+Employee ID:
+20496
+Salary:
+54000
+The salary for the employee is 54000
+Enter Commission Employee details:
+Name:
+Puns
+Employee ID:
+402240
+Sales:
+100000
+The salary for the commission employee is 60000
+Enter Base + Commission Employee details:
+Name:
+Impy
+Employee ID:
+87457
+Base salary:
+20000
+Sales:
+45000
+The salary for the Base plus Commission employee is 47000

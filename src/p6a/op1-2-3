@@ -1,0 +1,33 @@
+1)
+Speed of Vehicle 1
+35
+Direction (North, South, East or West)
+north
+Speed of Vehicle 2
+35
+Direction (North, South, East or West)
+north
+Safe.
+
+2)
+Speed of Vehicle 1
+35
+Direction (North, South, East or West)
+east
+Speed of Vehicle 2
+20
+Direction (North, South, East or West)
+east
+Safe.
+
+3)
+Speed of Vehicle 1
+33
+Direction (North, South, East or West)
+north
+Speed of Vehicle 2
+50
+Direction (North, South, East or West)
+east
+p6a.VehicleCollisionException: Collision is possible.
+	at p6a.Main.main(Main.java:27)
