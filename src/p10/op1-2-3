@@ -1,0 +1,14 @@
+1.
+Enter string to be checked:
+dinesh
+"dinesh" cannot be a palindrome
+
+2.
+Enter string to be checked:
+mama
+"mama" can be a palindrome
+
+3.
+Enter string to be checked:
+lulud
+"lulud" can be a palindrome
