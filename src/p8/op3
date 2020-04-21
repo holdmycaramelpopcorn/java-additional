@@ -1,0 +1,22 @@
+Enter a list of surnames. Enter "q" to stop.
+Arora
+Jhunjhunwala
+Kamal
+Kamal
+q
+List elements
+Arora
+Jhunjhunwala
+Kamal
+Kamal
+
+
+Unique set elements
+Jhunjhunwala
+Arora
+Kamal
+
+
+Enter first name to search in the set:
+Kamal
+Kamal was found in position 3

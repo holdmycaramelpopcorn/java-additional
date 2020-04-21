@@ -1,0 +1,27 @@
+Enter a list of surnames. Enter "q" to stop.
+Babu
+Jobs
+Sam
+Sam
+Hemsworth
+Jobs
+q
+List elements
+Babu
+Jobs
+Sam
+Sam
+Hemsworth
+Jobs
+
+
+Unique set elements
+Hemsworth
+Jobs
+Babu
+Sam
+
+
+Enter first name to search in the set:
+Sam
+Sam was found in position 4

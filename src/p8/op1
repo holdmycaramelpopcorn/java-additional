@@ -1,0 +1,32 @@
+Enter a list of surnames. Enter "q" to stop.
+Bapat
+Halgeri
+Babu
+Sadavarte
+Birajdar
+Dassi
+Rao
+q
+List elements
+Bapat
+Halgeri
+Babu
+Sadavarte
+Birajdar
+Dassi
+Rao
+
+
+Unique set elements
+Dassi
+Halgeri
+Rao
+Bapat
+Babu
+Birajdar
+Sadavarte
+
+
+Enter first name to search in the set:
+Dinesh
+Dinesh is not in the set
